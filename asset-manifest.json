@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/weassist/static/css/main.445e86b3.chunk.css",
+    "main.js": "/weassist/static/js/main.07d91ecc.chunk.js",
+    "main.js.map": "/weassist/static/js/main.07d91ecc.chunk.js.map",
+    "runtime-main.js": "/weassist/static/js/runtime-main.d58e41bb.js",
+    "runtime-main.js.map": "/weassist/static/js/runtime-main.d58e41bb.js.map",
+    "static/css/2.a70ede4d.chunk.css": "/weassist/static/css/2.a70ede4d.chunk.css",
+    "static/js/2.80581518.chunk.js": "/weassist/static/js/2.80581518.chunk.js",
+    "static/js/2.80581518.chunk.js.map": "/weassist/static/js/2.80581518.chunk.js.map",
+    "index.html": "/weassist/index.html",
+    "precache-manifest.1d3fbec097c987e89b663ef926d685be.js": "/weassist/precache-manifest.1d3fbec097c987e89b663ef926d685be.js",
+    "service-worker.js": "/weassist/service-worker.js",
+    "static/css/2.a70ede4d.chunk.css.map": "/weassist/static/css/2.a70ede4d.chunk.css.map",
+    "static/css/main.445e86b3.chunk.css.map": "/weassist/static/css/main.445e86b3.chunk.css.map",
+    "static/js/2.80581518.chunk.js.LICENSE.txt": "/weassist/static/js/2.80581518.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/weassist/static/media/logo.efbe959f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d58e41bb.js",
+    "static/css/2.a70ede4d.chunk.css",
+    "static/js/2.80581518.chunk.js",
+    "static/css/main.445e86b3.chunk.css",
+    "static/js/main.07d91ecc.chunk.js"
+  ]
+}
